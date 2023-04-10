@@ -1,5 +1,5 @@
 module.exports = {
-  base:'/docs/'
+  base:'/docs/',
   title: "小G的Blog",
   lastUpdated: "更新时间", // string | boolean
   themeConfig: { 
