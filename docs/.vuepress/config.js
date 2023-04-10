@@ -12,7 +12,7 @@ module.exports = {
     nav: [
       { text: "主页", link: "/" },
       { text: "日记", link: "/diary/" },
-      { text: "技术", link: "/technology/" },
+      { text: "技术", link: "./technology/" },
       { text: "Github", link: "https://github.com/Chowhound-G" },
     ],
     sidebar: "auto",
