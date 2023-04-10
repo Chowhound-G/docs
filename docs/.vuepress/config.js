@@ -7,7 +7,7 @@ module.exports = {
     logo: "/assets/img/hero.png",
     head: [
       ["meta", { author: "Kwok", content: "小G的个人博客" }],
-      ["head", { link: "./public/assets/img/favicon.ico" }],
+      ["head", { link: "/assets/img/favicon.ico" }],
     ],
     nav: [
       { text: "主页", link: "/" },
